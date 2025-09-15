@@ -19,7 +19,7 @@ Here's how to get this thing running on your computer.
 
 1.  **Clone the code**:
     ```bash
-    git clone <your-repo-url>
+    git clone https://github.com/r44gh4v/taskify.git
     cd taskify
     ```
 
